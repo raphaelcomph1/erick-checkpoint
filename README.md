@@ -57,7 +57,7 @@ int main(){
 ``` 
 
 ## Qsort
-Função pronta da linguagem C que implementa uma versão otimizada de QuickSort
+Função pronta da linguagem C que implementa uma versão otimizada de QuickSort.
 ```
 int main(){
     int quantidade = 1000;
@@ -71,7 +71,7 @@ int main(){
 ```
 
 ## Como usar
-Caso queira fazer testes com mais numeros basta mudar a variavel 'quantidade' e o rand no modelos 
+Caso queira fazer testes com mais numeros basta mudar a variavel 'quantidade' e o rand no modelos.
 ```
 int quantidade = 1000;
 numeros[i] = rand()%5005;
